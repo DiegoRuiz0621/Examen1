@@ -1,0 +1,13 @@
+#menu {
+    float: left;
+    width: 500px;
+    margin-left: 20px;
+}
+
+#BOTON button {
+    padding: 5px;
+    background: #f0b924;
+    border: none;
+    box-shadow: #000000 2px;
+    margin-top: 10px;
+}
